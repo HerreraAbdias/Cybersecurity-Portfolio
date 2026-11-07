@@ -2,12 +2,16 @@
 
 Welcome to my Cybersecurity Portfolio.
 
-I am developing hands-on experience in Identity and Access Management (IAM), Governance, Risk & Compliance (GRC), and foundational IT Security.
+## Career Focus
+I am developing practical IT and cybersecurity skills, with a paricular focus on:
 
-PROJECTS
-- Identity and Access Management labs
-- Security risk assessments
-- Access control documentation
-- Security policies and procedures
+- Identity and Access Management (IAM)
+- Governance, Risk, and Compliance (GRC)
+- Network and system security
+- IT Fundamentals
 
-Each project documents my objectives, mnehtodology, findings, and lessons learned.
+## Hands-On Projects
+This portfolio will contain my cybersecurity labs, documentation, security assessments, and practical projects. 
+
+## Learning Progress
+I am following a structured 12-month cybersecurity learning roadmap to develop technical skills, earn certification, and prepare for an IT/Cybersecurity career.
